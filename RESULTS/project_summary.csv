@@ -1,0 +1,12 @@
+Component,Result
+Dataset,HRAST
+Number of Reviews,"23,105"
+Number of Aspects,21
+Aspect Detection Model,One-vs-Rest Linear SVM
+Aspect Test Micro F1,0.8525
+Aspect Test Macro F1,0.8451
+Sentiment Model,Logistic Regression
+Neutral Threshold,0.44
+Sentiment Test Accuracy,0.8904
+Sentiment Test Macro F1,0.6943
+Sentiment Test Weighted F1,0.8981

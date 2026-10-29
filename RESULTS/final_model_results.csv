@@ -1,0 +1,3 @@
+Task,Model,Test Accuracy,Micro F1,Macro F1,Weighted F1,Precision,Recall,Hamming Loss
+Aspect Detection,One-vs-Rest Linear SVM,,0.85250504518733,0.8451306909950302,,0.8354256233877903,0.8702973844500179,0.02309510070617976
+Sentiment Classification,Logistic Regression,0.8903635314483554,,0.6943092641923121,0.8980654318677532,,,
